@@ -8,8 +8,8 @@ Japheth Kimeu
 ---
 <body align="center">
   
-I am working as a GIS and remote sensing consultant at the Food and Agriculture Organization of the United Nations. 
-My interests are geospatial data science, machine learning, and cloud computing to study environmental changes.
+I am a GIS and remote sensing consultant at the Food and Agriculture Organization of the United Nations. 
+My interests are in using geospatial data science, machine learning, and cloud computing to study environmental changes.
 
 For more information please see my [Portfolio Website](https://japhethkimeu.github.io)
 </body>
