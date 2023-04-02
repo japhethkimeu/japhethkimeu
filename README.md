@@ -4,9 +4,6 @@ Japheth Kimeu
 <h2 align="center">
 | GIS | Remote sensing | Machine Learning |
 </h2>
-<h2 align="center">
-| Environmental Monitoring | Climate Change | Humanitarian |
-</h2>
 
 ---
 <body align="center">
