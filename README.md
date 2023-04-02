@@ -1,12 +1,12 @@
-<h1 align="center">
+<h2 align="center">
 Japheth Kimeu
-</h1>
+</h2>
 <h2 align="center">
 | GIS | Remote sensing | Machine Learning |
 </h2>
-<h3 align="center">
+<h2 align="center">
 | Environmental Monitoring | Climate Change | Humanitarian |
-</h3>
+</h2>
 
 ---
 <body align="center">
