@@ -10,12 +10,12 @@ Japheth Kimeu
 
 ---
 
-#### I am working as a GIS and remote sensing consultant atFood and Agriculture Organization of the United Nations. 
-#### I am interested in applying geospatial techniques, machine learning, and cloud computing (e.g., [Google Earth Engine](https://earthengine.google.com/)) to study environmental changes.
+I am working as a GIS and remote sensing consultant at the Food and Agriculture Organization of the United Nations. 
+My interests are geospatial data science, machine learning, and cloud computing to study environmental changes.
 
 For more information please see my [Portfolio Website](https://japhethkimeu.github.io)
 
-## **My Tools:**
+**Technical & Computing Skills:**
 
 - **GIS & RS Software:** [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [QGIS](https://qgis.org/en/site/) 
 
