@@ -9,13 +9,13 @@ Japheth Kimeu
 </h3>
 
 ---
-<h3 align="center">
+<body align="center">
   
 I am working as a GIS and remote sensing consultant at the Food and Agriculture Organization of the United Nations. 
 My interests are geospatial data science, machine learning, and cloud computing to study environmental changes.
 
 For more information please see my [Portfolio Website](https://japhethkimeu.github.io)
-</h3>
+</body>
 
 Technical & Computing Skills:
 
@@ -46,14 +46,16 @@ Technical & Computing Skills:
 
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning** projects in environmental monitoring and humanitarian work
-
-<h3 align="center">
+  
+---
+  
+<body align="center">
   
 ## **Languages**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=japhethkimeu&theme=radical)
 
-</h3>
+</body>
 
 
 <!--
