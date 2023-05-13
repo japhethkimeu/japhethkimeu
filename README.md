@@ -8,7 +8,7 @@ GIS | Remote sensing | Information Management
 ---
 <body align="center">
   
-I am a GIS and remote sensing consultant at the Food and Agriculture Organization of the United Nations. 
+I am a GIS and remote sensing specialist at the Food and Agriculture Organization of the United Nations. 
 My interests are in geospatial technologies, machine learning, and information management.
 
 For more information please see my [Portfolio Website](https://japhethkimeu.github.io)
