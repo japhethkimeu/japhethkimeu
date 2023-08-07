@@ -38,7 +38,7 @@ Technical & Computing Skills:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="50" title="Excel" />&nbsp;
 <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="80" title="Django" />&nbsp;
 <img src="https://github.com/japhethkimeu/japhethkimeu/blob/main/logo.png?raw=true" width="100" title="Leaflet" />&nbsp;
-<img src="https://download.osgeo.org/postgis/logo_suite/adbadge_tall/postgis-logo.png" width="80" title="PostGIS" />&nbsp;
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-ar21.svg" width="80" title="PostgreSQL" />&nbsp;
 </h3>
 
 **Updates:**
