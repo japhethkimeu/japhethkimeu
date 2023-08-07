@@ -22,7 +22,7 @@ Technical & Computing Skills:
 
 - **Geospatial Data Analysis:** [Python](https://docs.conda.io/en/latest/miniconda.html) | [Jupyter Notebook](https://jupyter.org/) | [VSCode](https://code.visualstudio.com/)
 - **Data Visualization:** [Power BI](https://powerbi.microsoft.com/en-au/) | [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [Excel](https://www.microsoft.com/en-ww/microsoft-365/excel)
-
+- **Geospatial Development:** [Django](https://www.djangoproject.com/) | [Leaflet](https://leafletjs.com/) | [PostgreSQL](https://www.postgresql.org/)
 <h3 align="center">
   
 <h3 align="center">
@@ -36,7 +36,9 @@ Technical & Computing Skills:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" width="50" title="QGIS" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="50" title="PowerBi" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="50" title="Excel" />&nbsp;
-
+<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="50" title="Django" />&nbsp;
+<img src="https://en.wikipedia.org/wiki/Leaflet_(software)#/media/File:Leaflet_logo.svg" width="50" title="Leaflet" />&nbsp;
+<img src="https://download.osgeo.org/postgis/logo_suite/adbadge_tall/postgis-logo.png" width="50" title="PostGIS" />&nbsp;
 </h3>
 
 **Updates:**
