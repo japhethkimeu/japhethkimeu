@@ -36,9 +36,9 @@ Technical & Computing Skills:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" width="50" title="QGIS" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="50" title="PowerBi" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="50" title="Excel" />&nbsp;
-<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="50" title="Django" />&nbsp;
+<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="80" title="Django" />&nbsp;
 <img src="https://en.wikipedia.org/wiki/Leaflet_(software)#/media/File:Leaflet_logo.svg" width="50" title="Leaflet" />&nbsp;
-<img src="https://download.osgeo.org/postgis/logo_suite/adbadge_tall/postgis-logo.png" width="50" title="PostGIS" />&nbsp;
+<img src="https://download.osgeo.org/postgis/logo_suite/adbadge_tall/postgis-logo.png" width="80" title="PostGIS" />&nbsp;
 </h3>
 
 **Updates:**
