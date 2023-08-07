@@ -43,7 +43,6 @@ Technical & Computing Skills:
 
 **Updates:**
 
-- 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning** projects in environmental monitoring and humanitarian work
   
 ---
