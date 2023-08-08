@@ -18,11 +18,11 @@ Technical & Computing Skills:
 
 - **GIS & RS Software:** [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [QGIS](https://qgis.org/en/site/) 
 
-- **Cloud Computing & Big Data:** [Google Earth Engine](https://earthengine.google.com/)
+- **Cloud Computing & Big Data:** [Google Earth Engine](https://earthengine.google.com/) | [Google Colab](https://colab.google/)
 
 - **Geospatial Data Analysis:** [Python](https://docs.conda.io/en/latest/miniconda.html) | [Jupyter Notebook](https://jupyter.org/) | [VSCode](https://code.visualstudio.com/)
 - **Data Visualization:** [Power BI](https://powerbi.microsoft.com/en-au/) | [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [Excel](https://www.microsoft.com/en-ww/microsoft-365/excel)
-- **Geospatial Development:** [Django](https://www.djangoproject.com/) | [Leaflet](https://leafletjs.com/) | [PostgreSQL](https://www.postgresql.org/)
+- **Geospatial Development:** [Django](https://www.djangoproject.com/) | [Leaflet](https://leafletjs.com/) | [PostgreSQL](https://www.postgresql.org/) | [GeoServer](https://geoserver.org/) | [GeoNode](https://geonode.org/)
 <h3 align="center">
   
 <h3 align="center">
