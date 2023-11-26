@@ -54,7 +54,7 @@ Technical & Computing Skills:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=japhethkimeu&theme=radical)
 
 </body>
-**Visitors Count**
+## **Visitors Count**
 
 ![VisitorCount](https://profile-counter.glitch.me/{japhethkimeu}/count.svg)
 
