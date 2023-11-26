@@ -54,7 +54,9 @@ Technical & Computing Skills:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=japhethkimeu&theme=radical)
 
 </body>
+**Visitors Count**
 
+![VisitorCount](https://profile-counter.glitch.me/{japhethkimeu}/count.svg)
 
 <!--
 **japhethkimeu/japheth_kimeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
