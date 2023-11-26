@@ -18,7 +18,7 @@ Technical & Computing Skills:
 
 - **GIS & RS Software:** [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [QGIS](https://qgis.org/en/site/) 
 
-- **Cloud Computing & Big Data:** [Google Earth Engine](https://earthengine.google.com/) | [Google Colab](https://colab.google/)
+- **Cloud Computing & Big Data:** [Google Earth Engine](https://earthengine.google.com/) | [Google Colab](https://colab.google/) | [AWS](https://aws.amazon.com/) | [GCP](https://cloud.google.com/)
 
 - **Geospatial Data Analysis:** [Python](https://docs.conda.io/en/latest/miniconda.html) | [Jupyter Notebook](https://jupyter.org/) | [VSCode](https://code.visualstudio.com/)
 - **Data Visualization:** [Power BI](https://powerbi.microsoft.com/en-au/) | [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [Excel](https://www.microsoft.com/en-ww/microsoft-365/excel)
