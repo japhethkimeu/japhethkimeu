@@ -29,8 +29,8 @@ Technical & Computing Skills:
 <h3 align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50" title="Jupyter Notebooks" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" title="Python" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50;" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="Visual Studio" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />&nbsp;
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" title="Github"/>&nbsp;
 <img src="https://earthengine.google.com/static/images/earth-engine-logo.png" width="50" title="Google Earth Engine" />&nbsp;
 <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" width="50" title="ArcGIS Pro" />&nbsp;
