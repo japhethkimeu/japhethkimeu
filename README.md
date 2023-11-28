@@ -23,7 +23,7 @@ Technical & Computing Skills:
 - **Geospatial Data Analysis:** [Python](https://docs.conda.io/en/latest/miniconda.html) | [Jupyter Notebook](https://jupyter.org/) | [VSCode](https://code.visualstudio.com/)
 - **Data Visualization:** [Power BI](https://powerbi.microsoft.com/en-au/) | [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [Excel](https://www.microsoft.com/en-ww/microsoft-365/excel)
 - **Geospatial Development:** [Django](https://www.djangoproject.com/) | [Leaflet](https://leafletjs.com/) | [PostgreSQL](https://www.postgresql.org/) | [GeoServer](https://geoserver.org/) | [GeoNode](https://geonode.org/)
-- **Machine Learning** [Tensorflow](https://www.tensorflow.org/) | [PyTorch](https://pytorch.org/) | [Keras](https://keras.io/) | [Scikit-learn](https://scikit-learn.org/stable/)
+- **Machine Learning:** [Tensorflow](https://www.tensorflow.org/) | [PyTorch](https://pytorch.org/) | [Keras](https://keras.io/) | [Scikit-learn](https://scikit-learn.org/stable/)
 <h3 align="center">
   
 <h3 align="center">
@@ -40,6 +40,7 @@ Technical & Computing Skills:
 <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="80" title="Django" />&nbsp;
 <img src="https://github.com/japhethkimeu/japhethkimeu/blob/main/logo.png?raw=true" width="100" title="Leaflet" />&nbsp;
 <img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" width="50" title="PostgreSQL" />&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" title="Tensorflow" />&nbsp; 
 </h3>
 
 **Updates:**
