@@ -41,7 +41,7 @@ Technical & Computing Skills:
 <img src="https://github.com/japhethkimeu/japhethkimeu/blob/main/logo.png?raw=true" width="100" title="Leaflet" />&nbsp;
 <img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" width="50" title="PostgreSQL" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" title="Tensorflow" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="50" height="50" title="PyTorch" />&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="50" height="30" title="PyTorch" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50" title="Keras" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" title="Scikit-learn" />&nbsp;
 </h3>
