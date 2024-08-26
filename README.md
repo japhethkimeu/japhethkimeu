@@ -48,7 +48,7 @@ Technical & Computing Skills:
 
 **Updates:**
 
-- 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning** projects in environmental monitoring and humanitarian work
+- 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning** projects in environmental monitoring, conservation and humanitarian work
   
 ---
   
