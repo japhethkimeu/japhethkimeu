@@ -2,7 +2,7 @@
 Japheth Kimeu
 </h2>
 <h2 align="center">
-GIS | Remote sensing | Information Management
+GIS | Remote sensing | AI
 </h2>
 
 ---
