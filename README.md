@@ -9,7 +9,7 @@ GIS | Remote sensing | AI
 <body align="center">
   
 I am a GIS and remote sensing specialist at the Food and Agriculture Organization of the United Nations. 
-My interests are in geospatial technologies, machine learning, and information management.
+My interests are in geospatial technologies, machine learning, and AI.
 
 For more information please see my [Portfolio Website](https://japhethkimeu.github.io)
 </body>
