@@ -15,8 +15,8 @@ I am a Geospatial Technical Advisor with over 10 years of experience applying ea
 
 ### 🔭 Currently
 
-- **FAO SoilFER Project** — Leading geospatial advisory on digital soil mapping, National Soil Information System (NSIS) development, and a three-tier Decision Support System providing actionable outputs for policy, extension services, and smallholder farmers across Kenya
-- **Connected Conservation Foundation** — Supporting the Interconnected Earth programme, applying earth observation and GeoAI across Africa's critical wildlife corridors and conservation landscapes
+- **FAO** — Leading geospatial advisory on digital soil mapping, land cover mapping, crop suitability and National Soil Information System (NSIS) DSS development providing actionable outputs for policy, extension services, and smallholder farmers across Kenya
+- **Connected Conservation Foundation** — Supporting the SAT4BIO program in collaboration with the Airbus Foundation, applying earth observation and GeoAI across Africa's critical ecosystems and conservation landscapes
 
 ---
 
