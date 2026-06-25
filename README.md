@@ -1,80 +1,71 @@
-<h2 align="center">
-Japheth Kimeu
-</h2>
-<h2 align="center">
-GIS | Remote sensing | AI
-</h2>
+<h1 align="center">Japheth Kimeu</h1>
+<h3 align="center">Geospatial Technical Advisor | FAO & Connected Conservation Foundation</h3>
+
+<p align="center">
+  <a href="https://japhethkimeu.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat-square" /></a>
+  <a href="https://linkedin.com/in/kimeujapheth"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:kimeujeffer@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" /></a>
+</p>
 
 ---
-<body align="center">
-  
-I am a GIS and remote sensing specialist at the Food and Agriculture Organization of the United Nations. 
-My interests are in geospatial technologies, machine learning, and AI.
 
-For more information please see my [Portfolio Website](https://japhethkimeu.github.io)
-</body>
+I am a Geospatial Technical Advisor with over 10 years of experience applying earth observation, GIS, and AI to conservation, nature-climate solutions, and climate-smart agriculture across Africa. I currently serve as a Geospatial Technical Advisor at FAO and as GIS & Data Specialist at Connected Conservation Foundation.
 
-Technical & Computing Skills:
-
-- **GIS & RS Software:** [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [QGIS](https://qgis.org/en/site/) 
-
-- **Cloud Computing & Big Data:** [Google Earth Engine](https://earthengine.google.com/) | [Google Colab](https://colab.google/) | [AWS](https://aws.amazon.com/) | [GCP](https://cloud.google.com/)
-
-- **Geospatial Data Analysis:** [Python](https://docs.conda.io/en/latest/miniconda.html) | [Jupyter Notebook](https://jupyter.org/) | [VSCode](https://code.visualstudio.com/)
-- **Data Visualization:** [Power BI](https://powerbi.microsoft.com/en-au/) | [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [Excel](https://www.microsoft.com/en-ww/microsoft-365/excel)
-- **Geospatial Development:** [Django](https://www.djangoproject.com/) | [Leaflet](https://leafletjs.com/) | [PostgreSQL](https://www.postgresql.org/) | [GeoServer](https://geoserver.org/) | [GeoNode](https://geonode.org/)
-- **Machine Learning:** [Tensorflow](https://www.tensorflow.org/) | [PyTorch](https://pytorch.org/) | [Keras](https://keras.io/) | [Scikit-learn](https://scikit-learn.org/stable/)
-<h3 align="center">
-  
-<h3 align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50" title="Jupyter Notebooks" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" title="Python" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="Visual Studio" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />&nbsp;
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" title="Github"/>&nbsp;
-<img src="https://earthengine.google.com/static/images/earth-engine-logo.png" width="50" title="Google Earth Engine" />&nbsp;
-<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" width="50" title="ArcGIS Pro" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" width="50" title="QGIS" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="50" title="PowerBi" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="50" title="Excel" />&nbsp;
-<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="80" title="Django" />&nbsp;
-<img src="https://github.com/japhethkimeu/japhethkimeu/blob/main/logo.png?raw=true" width="100" title="Leaflet" />&nbsp;
-<img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" width="50" title="PostgreSQL" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" title="Tensorflow" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="50" height="20" title="PyTorch" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50" title="Keras" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" title="Scikit-learn" />&nbsp;
-</h3>
-
-**Updates:**
-
-- 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning** projects in environmental monitoring, conservation and humanitarian work
-  
 ---
-  
-<body align="center">
-  
-## **Languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=japhethkimeu&theme=radical)
+### 🔭 Currently
 
-</body>
+- **FAO SoilFER Project** — Leading geospatial advisory on digital soil mapping, National Soil Information System (NSIS) development, and a three-tier Decision Support System providing actionable outputs for policy, extension services, and smallholder farmers across Kenya
+- **Connected Conservation Foundation** — Supporting the Interconnected Earth programme, applying earth observation and GeoAI across Africa's critical wildlife corridors and conservation landscapes
 
-**Visitors Count**
+---
 
-![VisitorCount](https://profile-counter.glitch.me/{japhethkimeu}/count.svg)
+### 🌍 Focus Areas
 
-<!--
-**japhethkimeu/japheth_kimeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| | |
+|---|---|
+| 🌍 **Earth Observation & GeoAI** | Satellite imagery analysis, deep learning, AI-enabled change detection |
+| 🌿 **Nature-Climate Solutions** | Carbon sequestration, ecosystem restoration, NBS, REDD+ |
+| 🌾 **Climate-Smart Agriculture** | Food security, crop mapping, soil information systems |
+| 🐘 **Conservation Technology** | Wildlife corridor mapping, biodiversity monitoring, HWC mitigation |
+| 🎓 **Capacity Development** | Training, institutional strengthening, knowledge products |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Work
+
+- 📖 [Corridors Under Pressure — Elephant Movement & HWC in the Maasai Mara](https://storymaps.arcgis.com/stories/32f4a57fcf084922b0f5654df26c6a6a) — ArcGIS StoryMap for the Mara Elephant Project
+- 🌱 [Restore Africa Decision Support Tool](https://kimeu.users.earthengine.app/view/resaf-decision-support-tool) — Restoration suitability & carbon potential across East & Southern Africa
+- 🐘 [Elephant Movement & Corridor Analysis App](https://kimeu.users.earthengine.app/view/elephant-movement) — VHR imagery & telemetry-based corridor mapping in Namibia
+- 🌊 [Soil Erosion Risk Estimation Tool](https://ee-kimeu.projects.earthengine.app/view/soil-erosion-estimation) — RUSLE-based soil loss assessment in Google Earth Engine
+
+---
+
+### 🛠 Tools & Technologies
+
+<p align="center">
+<img src="https://earthengine.google.com/static/images/earth-engine-logo.png" width="45" title="Google Earth Engine" />&nbsp;
+<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" width="45" title="ArcGIS Pro" />&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" width="45" title="QGIS" />&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="45" title="Python" />&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="45" title="Jupyter Notebooks" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="45" title="Tensorflow" />&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="45" title="Keras" />&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" title="Scikit-learn" />&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="45" title="Power BI" />&nbsp;
+</p>
+
+---
+
+### 👯 Open To
+
+Collaboration on earth observation, GeoAI, conservation technology, and nature-climate solutions projects across Africa. Advisory, research, and capacity development engagements with international organisations, NGOs, and development partners.
+
+---
+
+<p align="center">
+  <a href="https://japhethkimeu.github.io">🌐 Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/kimeujapheth">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:kimeujeffer@gmail.com">📧 Email</a>
+</p>
